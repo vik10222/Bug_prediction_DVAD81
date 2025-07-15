@@ -53,9 +53,10 @@ This repository contains the code and notebooks for a machine learning pipeline 
 ## Results
 
 - Key performance metrics and plots can be found within the respective notebooks under the `results/` section (output cells).
-- Final ensemble metrics are summarized in `ensemble.ipynb`.
+- Final ensemble metrics are summarized in `ensemble.ipynb`
+- 1 of 2 recieve dinstinction for this work 
 
-## Contributing
+
 
 
 
