@@ -22,27 +22,8 @@ This repository contains the code and notebooks for a machine learning pipeline 
 └── README.md               # This file
 ```
 
-## Setup
 
-1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/yourusername/bug-prediction.git
-   cd bug-prediction
-   ```
-
-2. **Create a virtual environment**
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -76,9 +57,5 @@ This repository contains the code and notebooks for a machine learning pipeline 
 
 ## Contributing
 
-Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
